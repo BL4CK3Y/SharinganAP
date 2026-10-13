@@ -1,4 +1,4 @@
-local SCRIPT_URL = "https://raw.githubusercontent.com/BL4CK3Y/SharinganAP/main/sharingan.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/BL4CK3Y/SharinganAP/main/sharinganobf.lua"
 
 local ok, err = pcall(function()
     local src = game:HttpGet(SCRIPT_URL)
